@@ -3,6 +3,23 @@ The first hackathon for the Faculty of Computers and Information for the year 20
 
 The first scientific hackathon at the level of Assiut University's faculties was held at the Faculty of Computer Science and Information, in cooperation with the sectors of Student Affairs and Community Service and Environmental Development. This hackathon was titled "SolveX: Programming Solutions for Real-world Challenges". The hackathon lasted for three days, with the first two days dedicated to project implementation and the third day reserved for project discussions and honoring the winners. Our team achieved third place at the university level with the "SpaceX" project, which aims to develop an automated system for detecting mines in desert areas and protecting civilians from the dangers of explosions. The system consists of a drone that scans the area and accurately locates mines, then sends this data to a remote control device for visual display. Based on this data, specialists can take the necessary measures to remove mines or warn citizens of their presence.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![im1](https://github.com/user-attachments/assets/3b1e71b7-b38a-4bc0-9829-17138947a362)
 ![im2](https://github.com/user-attachments/assets/488cfbe2-58ea-4ddf-9b9d-bd65292117b6)
 ![im3](https://github.com/user-attachments/assets/aa365409-743a-420a-ba0b-6d95f615c5df)
