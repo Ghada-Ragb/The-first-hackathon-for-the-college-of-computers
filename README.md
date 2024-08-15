@@ -8,24 +8,10 @@ The first scientific hackathon at the level of Assiut University's faculties was
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ![im1](https://github.com/user-attachments/assets/3b1e71b7-b38a-4bc0-9829-17138947a362)
 ![im2](https://github.com/user-attachments/assets/488cfbe2-58ea-4ddf-9b9d-bd65292117b6)
 ![im3](https://github.com/user-attachments/assets/aa365409-743a-420a-ba0b-6d95f615c5df)
-
 ![im4](https://github.com/user-attachments/assets/a9dd334e-9056-40ce-ad47-841761a2327d)
-
 ![im5](https://github.com/user-attachments/assets/e45d6a03-80c4-475f-8ef4-d3bbe4a7ce94)
 ![im6](https://github.com/user-attachments/assets/8049cf9d-dfae-479f-83c3-ce419b96d091)
 ![im7](https://github.com/user-attachments/assets/2068055e-28c3-4ed0-bef8-7814aeb98e4f)
